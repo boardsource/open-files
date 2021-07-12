@@ -8,5 +8,4 @@
 If you make something feel free to pr them in. 
 
 Other repos you may want to know about 
-
-(https://github.com/boardsource/microdox-goodies)[microdox stuff]
+[microdox stuff](https://github.com/boardsource/microdox-goodies)
