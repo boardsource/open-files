@@ -2,7 +2,10 @@
 
 ## Inclued
 * Mark:65 Plate svg
-* Tecknik pcb/plate started 
+* Tecknik pcb/plate started
+* equals plates
+* lily pad plate
+* unicorne plate
 
 
 If you make something feel free to pr them in. 
