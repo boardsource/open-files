@@ -1,0 +1,23 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.1.6-c6e7f7d~87~ubuntu20.04.1*
+G04 #@! TF.CreationDate,2020-11-25T16:37:26-08:00*
+G04 #@! TF.ProjectId,staggared Plate,73746167-6761-4726-9564-20506c617465,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Soldermask,Bot*
+G04 #@! TF.FilePolarity,Negative*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 5.1.6-c6e7f7d~87~ubuntu20.04.1) date 2020-11-25 16:37:26*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,2.200000*%
+G04 APERTURE END LIST*
+D10*
+X231968040Y-74499000D03*
+X231968040Y-38399000D03*
+X174818040Y-58299001D03*
+X98618040Y-58299001D03*
+X60518040Y-74499000D03*
+X41483280Y-38399000D03*
+M02*
